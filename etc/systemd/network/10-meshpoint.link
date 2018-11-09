@@ -1,0 +1,8 @@
+#
+# This matches up an actual device to the network link
+#
+[Match]
+MACAddress=68:94:23:1d:c8:7f
+
+[Link]
+Name=meshpoint
